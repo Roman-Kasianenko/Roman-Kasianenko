@@ -1,5 +1,5 @@
 
-## <p align="center"> I'm here to have some fun and develop helpfull scripts. <br> <br></p>
+## <p align="center"> I'm here to have some fun and making helpful scripts. 💻🐍:robot: <br> <br></p>
 
 
 <div id="badges" align="center">
