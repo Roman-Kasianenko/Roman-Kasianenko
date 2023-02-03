@@ -10,7 +10,7 @@
   <a href="https://github.com/Roman-Kasianenko"><img src="https://img.shields.io/github/followers/Roman-Kasianenko?label=Roman-Kasianenko&logo=Github&style=for-the-badge&color=purple&logoColor=black"/></a></p>
 </div>
 
-<!-- <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Roman-Kasianenko&left_color=blue&right_color=purple" alt="visitor badge"/> -->
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Roman-Kasianenko&left_color=blue&right_color=purple" alt="visitor badge"/>
 </br>
 
 
