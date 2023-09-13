@@ -10,8 +10,8 @@
   <a href="https://github.com/Roman-Kasianenko"><img src="https://img.shields.io/github/followers/Roman-Kasianenko?label=Roman-Kasianenko&logo=Github&style=for-the-badge&color=purple&logoColor=black"/></a></p>
 </div>
 
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Roman-Kasianenko&left_color=blue&right_color=purple" alt="visitor badge"/>
-</br>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=Roman-Kasianenko&label=Profile%20views&color=blueviolet&style=flat" alt="Roman-Kasianenko"/></p>
 
 
 <p align="center"><img src="https://github-readme-stats-lake-omega.vercel.app/api?username=Roman-Kasianenko&show_icons=true&line&theme=highcontrast" alt="Roman-Kasianenko GitHub Stats" />
