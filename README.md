@@ -1,5 +1,5 @@
 
-## <p align="center"> I'm here to have some fun and making helpful scripts. 💻🐍:robot: <br> <br></p>
+## <p align="center"> I'm here to have some fun and make helpful scripts. 💻🐍:robot: <br> <br></p>
 
 
 <div id="badges" align="center">
@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/badge/hackerrank-gray?logo=hackerrank&logoColor=green&style=for-the-badge" alt="hackerrank Badge"/>
   <a href="https://github.com/Roman-Kasianenko"><img src="https://img.shields.io/github/followers/Roman-Kasianenko?label=Roman-Kasianenko&logo=Github&style=for-the-badge&color=purple&logoColor=black"/></a></p>
 </div>
-
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Roman-Kasianenko&label=Profile%20views&color=blueviolet&style=flat" alt="Roman-Kasianenko"/></p>
 
 
 <p align="center"><img src="https://github-readme-stats-lake-omega.vercel.app/api?username=Roman-Kasianenko&show_icons=true&line&theme=highcontrast" alt="Roman-Kasianenko GitHub Stats" />
